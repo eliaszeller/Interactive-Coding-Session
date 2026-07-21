@@ -116,3 +116,5 @@ my_age = 24
 print(my_age)
 my_into = "Hello, my name Elias and I am" + my_age
 print(my_into)
+float('hello') # Value error
+
