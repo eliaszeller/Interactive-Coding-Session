@@ -84,7 +84,9 @@ def add_excitement(text):
 python_is_fun = add_excitement("python_is_fun")
 python_is_fun
 
-
+print((19).numerator)
+price = 10
+print(price.numerator)
 
 
 
